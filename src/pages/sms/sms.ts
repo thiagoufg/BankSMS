@@ -1,4 +1,3 @@
-import { ItemSlidingNgFactory } from './../../../.tmp/node_modules/ionic-angular/components/item/item-sliding.ngfactory';
 import { Component } from '@angular/core';
 import { Platform, NavController, NavParams  } from 'ionic-angular';
  
