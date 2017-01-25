@@ -74,6 +74,7 @@ export class SmsPage {
         console.log('error list sms: ' + err);
       }
     );
+    
   }
 
   itemTapped(event, item) 
